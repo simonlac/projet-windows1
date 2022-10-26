@@ -1,0 +1,15 @@
+H:\windows programming\projet windows1\bin\Debug\net6.0\projetwin.exe
+H:\windows programming\projet windows1\bin\Debug\net6.0\projetwin.deps.json
+H:\windows programming\projet windows1\bin\Debug\net6.0\projetwin.runtimeconfig.json
+H:\windows programming\projet windows1\bin\Debug\net6.0\projetwin.dll
+H:\windows programming\projet windows1\bin\Debug\net6.0\projetwin.pdb
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.csproj.AssemblyReference.cache
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.GeneratedMSBuildEditorConfig.editorconfig
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.AssemblyInfoInputs.cache
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.AssemblyInfo.cs
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.csproj.CoreCompileInputs.cache
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.dll
+H:\windows programming\projet windows1\obj\Debug\net6.0\refint\projetwin.dll
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.pdb
+H:\windows programming\projet windows1\obj\Debug\net6.0\projetwin.genruntimeconfig.cache
+H:\windows programming\projet windows1\obj\Debug\net6.0\ref\projetwin.dll
